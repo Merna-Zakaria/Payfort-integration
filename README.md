@@ -11,6 +11,7 @@ Payfort has one Redirection URL you can set it in technical setting (this url ma
 your user will see this page and fill the inputs \
 ![alt text](https://github.com/Merna-Zakaria/Payfort-integration/blob/master/payfort-1.png?raw=true) \
 So let's see how to apply this solution on our website: \
-1- Create form with post request and hidden input with values send with this post request
+1- Create form with post request and hidden input with values send with this post request \
+![alt text](https://github.com/Merna-Zakaria/Payfort-integration/blob/master/payfort-2.png?raw=true) \
 
 
